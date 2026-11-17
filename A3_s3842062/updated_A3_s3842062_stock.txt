@@ -1,0 +1,4 @@
+NAME,PRICE,QUANTITY,CATEGORY1[Young's Modulus],CATEGORY2[Yield Strength]
+steel 1015,1.2,54,200GPa,325MPa
+steel 1050,2.71,31,205GPa,415MPa
+Titanium Transage 129,10.87,13,108GPa,1100MPa
